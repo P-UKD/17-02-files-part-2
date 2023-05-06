@@ -1,0 +1,14 @@
+{
+  "name": "files-part-2",
+  "version": "1.0.0",
+  "description": "Це проект для роботи з файлами",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
